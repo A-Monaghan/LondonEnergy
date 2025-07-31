@@ -138,20 +138,8 @@ pip install pandas numpy tensorflow scikit-learn matplotlib seaborn folium
 - Implement bias detection frameworks
 - Document model limitations and assumptions
 
-## 📞 Contributing
 
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
-3. **Make your changes** and add tests
-4. **Open a Pull Request**
-
-### Development Guidelines
-- Follow PEP 8 style guidelines
-- Add comprehensive docstrings
-- Include unit tests for new functions
-- Update documentation for new features
-
-## 📈 Project Roadmap
+## 📈 Potential Roadmap
 
 ### Phase 1 (Current): Foundation ✅
 - Data pipeline development
@@ -169,7 +157,3 @@ pip install pandas numpy tensorflow scikit-learn matplotlib seaborn folium
 - Automated retraining pipeline
 
 ---
-
-**Last Updated**: [Current Date]  
-**Version**: 1.0.0  
-**Status**: Active Development
